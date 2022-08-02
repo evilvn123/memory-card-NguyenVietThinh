@@ -1,0 +1,25 @@
+.card {
+  width: 100%;
+  height: 100%;
+  background: transparent;
+  transition: transform 1s;
+  transform-style: preserve-3d;
+  position: relative;
+  
+  &__front,
+  &__back {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+  }
+  &__back {
+    transform: rotateY(180deg);
+  }
+  &.face-up {
+    transform: rotateY(180deg);
+  }
+}

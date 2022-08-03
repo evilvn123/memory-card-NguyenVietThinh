@@ -1,12 +1,17 @@
 # Memory Card
-## Here is the demo <a href="https://memory-card-nguyen-viet-thinh.vercel.app/" style="font-size: 18px">CLICK TO SEE DEMO</a>
+## Here is the demo <a href="https://memory-card-nguyen-viet-thinh.vercel.app/" style="font-size: 18px">Click to see demo</a>
 
 ![alt-text](https://github.com/evilvn123/memory-card-NguyenVietThinh/blob/main/src/img/demo.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### Technologies
+### Technologies and library
 In this project, i use [React](https://reactjs.org/) and [Typescripts](https://www.typescriptlang.org/) as the main technology
+
+#### Technologies used
+- HTML5
+- SASS/SCSS
+- 
 
 Besides, I use some modules during project development
 #### For style

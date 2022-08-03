@@ -11,10 +11,11 @@ In this project, i use [React](https://reactjs.org/) and [Typescripts](https://w
 #### Technologies used
 - HTML5
 - SASS/SCSS
-- 
+- Reactjs
+- Typescripts
 
 Besides, I use some modules during project development
-#### For style
+#### For styling
 - [Node-sass](https://www.npmjs.com/package/node-sass)
 
 #### For testing

@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Memory Card
+## Here is the demo <a href="https://memory-card-nguyen-viet-thinh.vercel.app/" style="font-size: 18px">CLICK TO SEE DEMO</a>
+
+![alt-text](https://github.com/TheCodersDream/React-Ecommerce-App-with-Redux/blob/master/ecm1-1.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

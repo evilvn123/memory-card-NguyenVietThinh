@@ -1,11 +1,23 @@
 # Memory Card
 ## Here is the demo <a href="https://memory-card-nguyen-viet-thinh.vercel.app/" style="font-size: 18px">CLICK TO SEE DEMO</a>
 
-![alt-text](https://github.com/TheCodersDream/React-Ecommerce-App-with-Redux/blob/master/ecm1-1.png)
+![alt-text](https://github.com/evilvn123/memory-card-NguyenVietThinh/blob/main/src/img/demo.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Technologies
+In this project, i use [React](https://reactjs.org/) and [Typescripts](https://www.typescriptlang.org/) as the main technology
+
+Besides, I use some modules during project development
+#### For style
+- [Node-sass](https://www.npmjs.com/package/node-sass)
+
+#### For testing
+- [Jest](https://jestjs.io/)
+- [testing-library](https://testing-library.com/)
+- [enzyme](https://enzymejs.github.io/enzyme/docs/guides/jest.html)
+
+### Available Scripts
 
 In the project directory, you can run:
 
